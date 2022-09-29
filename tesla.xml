@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.91.179.144:8191/landmark/repository/tesla-frontend-releases/</url>
+	      <url>http://100.24.58.14:8191/landmark/repository/visa-avion-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.91.179.144:8191/landmark/repository/tesla-frontend-snapshot/</url>
+	      <url>http://100.24.58.14:8191/landmark/repository/visa-avion-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
